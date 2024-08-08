@@ -1,4 +1,4 @@
-Small Object Detection using YOLOv8 with and without SAHI
+#Small Object Detection using YOLOv8 with and without SAHI
 
 
 This project explores the detection of small objects such as earphones, glasses, and helmets using the YOLOv8 object detection model. Small object detection is particularly challenging due to the limited pixel area these objects occupy in images, making it harder for models to accurately identify them.
